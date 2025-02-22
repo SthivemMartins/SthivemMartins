@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Sthivem 😁
 
  <div>
    <a href="https://github.com/SthivemMartins">
@@ -13,8 +13,6 @@
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/sthivem-martins-650190142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
